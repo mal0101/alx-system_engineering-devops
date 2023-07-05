@@ -4,3 +4,4 @@ The 2-bring_me_home file contains a script that changes the working directory to
 The 3-listfiles file contains a script that displays current directory contents in a long format.
 The 4-listmorefiles file contains a script that displays current directory contents, including hidden files.
 The 5-listfilesdigitonly file contains a script that display current directory contents.
+The 6-firstdirectory file contains a script that creates a directory named my_first_directory in the /tmp/ directory.
