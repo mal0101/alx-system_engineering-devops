@@ -1,1 +1,2 @@
--The 0-iam_betty contains a script that switches the current user to the user betty
+-The 0-iam_betty file  contains a script that switches the current user to the user betty
+-The 1-who_am_i file contains a script that prints the effective username of the current user.
