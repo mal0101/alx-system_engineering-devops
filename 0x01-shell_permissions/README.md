@@ -5,3 +5,4 @@
 -The 4-empty file contains a script that creates an empty file called hello.
 -The 5-execute file contains a script that  adds execute permission to the owner of the file hello
 -The 6-multiple_permissions file contains a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+-The 7-everybody file contains a script that adds execution permission to the owner, the group owner and the other users, to the file hello
