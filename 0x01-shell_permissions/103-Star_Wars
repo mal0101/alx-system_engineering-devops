@@ -1,0 +1,3 @@
+#!/bin/bash
+clear && echo -e "\n        A long time ago in a galaxy far, far away....\n\n        STAR WARS\n        Episode IV\n        A NEW HOPE\n\n        It is a period of civil war." | figlet -f starwars | lolcat
+
