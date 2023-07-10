@@ -1,1 +1,2 @@
 -The 0-hello_world file contains a script that prints “Hello, World”, followed by a new line to the standard output.
+-The 1-confused_smiley file contains a script that prints a condused smiley.
