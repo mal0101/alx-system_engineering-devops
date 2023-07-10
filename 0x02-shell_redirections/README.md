@@ -33,7 +33,9 @@ include capital letters as well
 -The 19-AZ file contains a script that replaces all characters A and c from input to Z and e respectively.
 -The 20-hiago filr contains a script that removes all letters c and C from input.
 -The 21-reverse file contains a script that reverse its input.
+-The 22-users_and_homes file contains a script that displays all users and their home directories, sorted by users.
 
+Based on the the /etc/passwd file
 
 
 
