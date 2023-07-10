@@ -25,3 +25,4 @@ Words should be sorted
 
 -The 14-findthatword file contains a script that displays lines containing the pattern “root” from the file /etc/passwd.
 -The 15-countthatword file contains a script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
+-The 16-whatsnext file contains a script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
