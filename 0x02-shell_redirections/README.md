@@ -32,6 +32,8 @@ Words should be sorted
 include capital letters as well
 -The 19-AZ file contains a script that replaces all characters A and c from input to Z and e respectively.
 -The 20-hiago filr contains a script that removes all letters c and C from input.
+-The 21-reverse file contains a script that reverse its input.
+
 
 
 
