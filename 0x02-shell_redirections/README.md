@@ -22,3 +22,5 @@ Sorted from the newest to the oldest
 Input format: One line, one word
 Output format: One line, one word
 Words should be sorted
+
+-The 14-findthatword file contains a script that displays lines containing the pattern “root” from the file /etc/passwd.
