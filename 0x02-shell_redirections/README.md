@@ -30,6 +30,7 @@ Words should be sorted
 -The 18-letteronly file contains a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 include capital letters as well
+-The 19-AZ file contains a script that replaces all characters A and c from input to Z and e respectively.
 
 
 
