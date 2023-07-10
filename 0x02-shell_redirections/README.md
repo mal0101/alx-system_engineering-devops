@@ -27,6 +27,9 @@ Words should be sorted
 -The 15-countthatword file contains a script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 -The 16-whatsnext file contains a script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 -The 17-hidethisword files contains a script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+-The 18-letteronly file contains a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+include capital letters as well
 
 
 
