@@ -5,4 +5,5 @@
 -The 4-lastlines file contains a script that prints the 10 last lines of /etc/passwd.
 -The 5-firstlines file contains a script that print the 10 first lines of /etc/passwd.
 -The 6-third_line file contains a script that prints the 3rd line of iacta.
+-The 7-file contains a script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
