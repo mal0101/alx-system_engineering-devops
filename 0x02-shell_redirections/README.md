@@ -59,6 +59,11 @@ You are not allowed to use basename, grep, egrep, fgrep or rgrep
 The ‘decoded’ message has to end with a new line
 You are not allowed to use grep, egrep, fgrep or rgrep
 
+-The 103-the_biggest_fan file contains a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+
+Order by number of requests, most active host or IP at the top
+You are not allowed to use grep, egrep, fgrep or rgrep
+
 
 
 
